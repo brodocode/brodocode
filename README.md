@@ -1,8 +1,8 @@
 ### Hi,this is Gauri 
-Junior at Gautam Buddha University
+CSE graduate paving the way to become a Data Analyst. 
 <ul>
-<li>🌱 I’m currently learning: Java</li>
-<li>🔭 I’m currently doing: DSA</li>
+<li>🌱 Python learner at an intermediate level</li>
+<li>🔭 Trainee Assistant Broadcast Engineer on duty</li>
 
 ## connect with me
 <p align="left">
