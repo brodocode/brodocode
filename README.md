@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/ShreyashVarshney/ShreyashVarshney/blob/main/Github%20Banner/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="banner" style="width: 100%; max-width: 1000px;">
+  <img src="https://github.com/brodocode/brodocode/blob/main/Images/data-science-icon-animation-banner-clockwise-3.webp" alt="banner" style="width: 100%; max-width: 1000px;">
 </p>
 
 <!-- Typing SVG with Border -->
@@ -91,13 +91,3 @@
 
 </div>
 
-<!-- GitHub Streak -->
-<h3 align="left" style="margin-top: 30px;">🔥 GitHub Streak</h3>
-
-<div style="text-align: left;">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=brodocode&theme=default"
-    alt="GitHub Streak"
-    style="width: 60%; max-width: 400px; min-width: 250px;"
-  />
-</div>
