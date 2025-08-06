@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4999&pause=1000&color=3F80FF&center=true&width=1000&height=80&separator=%3C&lines=%F0%9F%91%8B+Hi+My+name+Is+gauriscrazy;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4999&pause=1000&color=3F80FF&center=true&width=1000&height=80&separator=%3C&lines=%F0%9F%91%8B+Hi+My+name+Is+Gauri" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -22,7 +22,7 @@
   
   <!-- Coding GIF -->
 <p align="center">
-  <img src="https://github.com/ShreyashVarshney/ShreyashVarshney/blob/main/Coding%20GIF/developer.gif" alt="coding gif" width="550" />
+  <img src="https://github.com/brodocode/brodocode/blob/main/Images/Data-Website-Analytics.gif" alt="coding gif" width="550" />
 </p>
 
 
