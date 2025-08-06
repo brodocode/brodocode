@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/brodocode/brodocode/blob/main/Images/data-science-icon-animation-banner-clockwise-3.webp" alt="banner" style="width: 100%; max-width: 1000px;">
+  <img src="https://github.com/brodocode/brodocode/blob/main/Images/data-science-icon-animation-banner-clockwise-3.webp" alt="banner">
 </p>
 
 <!-- Typing SVG with Border -->
