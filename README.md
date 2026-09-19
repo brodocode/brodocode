@@ -31,8 +31,8 @@
     <h3>🔍 About Me</h3>
     <ul>
       <li>🚧 <strong>Currently building:</strong> <code>Online portfolio</code></li>
-      <li>📘 <strong>Learning now:</strong> <code>Google Cloud</code></li>
-      <li>💡 <strong>Ask me about:</strong> Java, Python, MySQL, HTML, CSS, PowerBI, Excel</li>
+      <li>📘 <strong>Learning now:</strong> <code>Advanced MySQL and Data analytics</code></li>
+      <li>💡 <strong>Ask me about:</strong> Java, Python,Data,Analysis, MySQL, HTML, PowerBI, Excel</li>
       <li>📬 <strong>Email:</strong>gauri.a.anupam@gmail.com</li>
       <li>📄 <strong>Resume:</strong> <a href="https://drive.google.com/file/d/1-j8RLDTeaeDonObd2Oi9lMg2bv345HaS/view?usp=sharing" target="_blank">View My Experience</a></li>
       <li>⚡ <strong>Analyst's Preference:</strong> I analyze data more than I talk!</li>
